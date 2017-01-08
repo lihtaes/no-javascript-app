@@ -1,0 +1,1 @@
+json.array! @for_funs, partial: 'for_funs/for_fun', as: :for_fun

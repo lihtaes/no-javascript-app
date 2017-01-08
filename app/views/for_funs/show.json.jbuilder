@@ -1,0 +1,1 @@
+json.partial! "for_funs/for_fun", for_fun: @for_fun

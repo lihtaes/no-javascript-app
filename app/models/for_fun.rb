@@ -1,0 +1,2 @@
+class ForFun < ApplicationRecord
+end

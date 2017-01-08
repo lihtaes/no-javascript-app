@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @for_fun.title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @for_fun.description %>
+</p>
+
+<%= link_to 'Edit', edit_for_fun_path(@for_fun) %> |
+<%= link_to 'Back', for_funs_path %>
